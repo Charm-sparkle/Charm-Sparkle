@@ -1,4 +1,4 @@
-## Hi there 👋
+Check out our website for more details✨
 
 <!--
 **Charm-sparkle/Charm-Sparkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
