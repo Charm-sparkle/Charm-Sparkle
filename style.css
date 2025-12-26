@@ -20,7 +20,7 @@ body {
   margin: -80px auto 20px auto;
 }
       
-/*a { display: inline-block; padding: 25px; font-family: "Chewy", sans-serif; font-size: 50px;
+a { display: inline-block; padding: 25px; font-family: "Chewy", sans-serif; font-size: 50px;
     text-decoration: none; 
     color: #D9A892;
     text-shadow: 3px 3px 0 brown;}
@@ -32,7 +32,7 @@ body {
    #Home {background-color: #FADCD2; background-attachment : fixed; min-height: 500px; font-size: 40px; padding: 20px; color: #6A3F34; text-align: center; line-height: 65px;
        
      
-   }*/
+   }
 nav {
   display: flex;
   flex-wrap: wrap;
@@ -153,3 +153,24 @@ nav a {
     padding: 20px;
   }
 }
+
+/* MOBILE FIX */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+section, div {
+  width: 100%;
+  }
