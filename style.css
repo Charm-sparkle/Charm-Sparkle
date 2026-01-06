@@ -44,9 +44,9 @@ nav a {
             }
             
             #order {
-                background-color: #FFE5D4; background-attachment : fixed; min-height: 200em; font-family: "Roboto"; font-size: 55px; color: #6A7B63; text-align: center;
+                background-color: #FFE5D4; background-attachment : fixed; min-height: 200rem; font-family: "Roboto"; font-size: 55px; color: #6A7B63; text-align: center;
             }
-            #contact {background-color: #EECFBE; background-attachment : fixed; min-height: 200em; font-size: 40px; font-family: "PlayFair Display", serif;
+            #contact {background-color: #EECFBE; background-attachment : fixed; min-height: 200rem; font-size: 40px; font-family: "PlayFair Display", serif;
             color: brown; text-align: center;
                 
             }
