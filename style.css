@@ -20,6 +20,8 @@ a { display: inline-block; padding: 25px; font-family: "Chewy", sans-serif; font
        color: brown;
    }
    a:visited {color: #b3b657;}
+contact a {
+  font-size: 40px; color: brown; text-align: center;}
    
    #Home {background-color: #FADCD2; background-attachment : fixed; min-height: 500px; font-size: 40px; padding: 20px; color: #6A3F34; text-align: center; line-height: 65px;
        
